@@ -19,6 +19,10 @@ If everything went right, there should now be another console window for logging
 You should also be able to see the text "KarlsonMod" along with a few buttons in the game.
 ![screenshot](https://i.imgur.com/8yrS5v5.png)
 
+## Contributing
+Please consider helping this Mod get better, since I'm just a single "programmer" that doesn't know much about C#.  
+Please create some pull requests, edit the wiki or anything you can do to make the mod better. Thanks.
+
 ## FAQ
 ### How do I load custom levels?
 See [Custom Levels](https://github.com/zImPatrick/KarlsonMod/wiki/Custom-Levels) in the wiki
